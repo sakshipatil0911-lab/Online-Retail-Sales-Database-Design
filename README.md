@@ -152,6 +152,3 @@ Online-Retail-Sales-Database/
 
 **Sakshi Patil**
 
-M.Sc. Computer Science
-
-SQL | Power BI | Python | MySQL
