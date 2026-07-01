@@ -50,21 +50,17 @@ The project consists of the following tables:
 
 ```
 Online-Retail-Sales-Database/
-│── schema.sql
-│── categories.sql
-│── customers.sql
-│── products.sql
-│── orders.sql
-│── order_items.sql
-│── payments.sql
-│── joins_queries.sql
-│── views.sql
-│── procedures.sql
-│── triggers.sql
-│── indexes.sql
-│── sales_report_queries.sql
-│── ER_Diagram.png
-│── README.md
+│
+├── projectschema.sql
+├── insertdata.sql
+├── joins_queries.sql
+├── views.sql
+├── procedures.sql
+├── triggers.sql
+├── indexes.sql
+├── sales_report_queries.sql
+├── ER_Diagram.png
+└── README.md
 ```
 
 ---
